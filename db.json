@@ -1,1 +1,9 @@
-
+{
+  "posts": [
+    { "id": 1, "title": "todo1 post", "author": "bobdavisdev" }
+  ],
+  "comments": [
+    { "id": 1, "body": "todo1 comment", "postId": 1 }
+  ],
+  "profile": { "name": "bobdavisdev" }
+}
